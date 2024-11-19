@@ -5,7 +5,7 @@
 #include "expressao.c"
 
 //constantes do tipo string
-#define STR1 "Por favor, Introduza a operacao usando notacao polonesa (pos-fixada): "
+#define STR1 "Por favor, Introduza a operacao usando notacao polonesa (pos-fixada):"
 #define MAX 100
 
 
